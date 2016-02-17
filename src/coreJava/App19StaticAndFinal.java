@@ -9,7 +9,8 @@ class Thing {
     public String name;
     // Essa é uma variável estática. Também conhecida como variável de classe.
     public static String description;
-    // Essa é uma 'variável' estática E constante, por isso o uso de 'final'. O uso de letras maiúsculas no nome da variável é uma convenção e sempre deve-se dar um valor à variável.
+    // Essa é uma 'variável' estática E constante, por isso o uso de 'final'. O uso de letras maiúsculas no nome da
+    // variável é uma convenção e sempre deve-se dar um valor à variável.
     public final static int LUCKY_NUMBER = 31;
 }
 
